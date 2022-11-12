@@ -1,4 +1,4 @@
-<p align="center"><a href="#" target="_blank"><img src="/tmp/Image_1.jpg" width="600"></a></p>
+<p align="center"><a href="#" target="_blank"><img src="/tmp/Image_1.jpg" width="900"></a></p>
 
 ## About
 
